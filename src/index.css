@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+
+body {
+  @apply  text-[#1f1c2c];
+}
+
+
